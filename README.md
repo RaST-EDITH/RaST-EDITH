@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RaST-EDITH/RaST-EDITH/blob/master/top.png" width="100%" height="400">
+  <img src="https://github.com/RaST-EDITH/RaST-EDITH/blob/master/top.png" width="100%" height="450">
 </p>
 
 <h1 align="center">Hi 👋, I'm Raghvendra Singh</h1>
